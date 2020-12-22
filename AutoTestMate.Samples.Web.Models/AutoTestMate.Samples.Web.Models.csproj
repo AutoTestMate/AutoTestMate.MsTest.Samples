@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <AssemblyName>AutoTestMate.Samples.Web.Models</AssemblyName>
+    <RepositoryUrl>https://github.com/AutoTestMate/nuget</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
