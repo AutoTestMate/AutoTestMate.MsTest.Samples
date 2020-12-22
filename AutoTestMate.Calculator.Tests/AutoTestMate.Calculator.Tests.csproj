@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-
+    <RepositoryUrl>https://github.com/AutoTestMate/nuget</RepositoryUrl>
     <IsPackable>false</IsPackable>
   </PropertyGroup>
 
