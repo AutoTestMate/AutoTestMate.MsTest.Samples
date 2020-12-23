@@ -26,11 +26,10 @@
     <Parameter name="Headless" value="false" />
     <Parameter name="BrowserType" value="chrome" />
     <Parameter name="BrowserProfile" value="default" />
+    <Parameter name="BrowserOs" value="Linux" />
     <Parameter name="EnableDetailedLogging" value="false" />
     <Parameter name="UseSeleniumGrid" value="true" />
-    <!--<Parameter name="SeleniumGridUrl" value="http://localhost:4444/wd/hub" />-->
     <Parameter name="SeleniumGridUrl" value="http://192.168.1.111:4444/wd/hub" />
-    <!--<Parameter name="CalculatorHomePageUrl" value="https://localhost:5001" />-->
     <Parameter name="CalculatorHomePageUrl" value="https://ets-demo-test.azurewebsites.net" />
   </TestRunParameters>
   <!-- MSTest adapter -->
