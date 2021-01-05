@@ -14,6 +14,7 @@
     <None Remove="appsettings.json" />
     <None Remove="Data\NurseryRhymesBook.xls" />
     <None Remove="Data\NurseryRhymesBook.xlsx" />
+    <None Remove="ReportPortal.config.json" />
   </ItemGroup>
 
   <ItemGroup>
@@ -24,6 +25,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Data\NurseryRhymesBook.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ReportPortal.config.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
